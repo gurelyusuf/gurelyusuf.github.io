@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yusuf GÜREL</title>
+  <subtitle></subtitle>
+  <link href="https://yusufgurel.site//feed.xml" rel="self"/>
+  <link href="https://yusufgurel.site//"/>
+  
+    <updated>2022-02-07T21:00:00+03:00</updated>
+  
+  <id>https://yusufgurel.site/</id>
+  <author>
+    <name>Yusuf GÜREL</name>
+    <email>info@yusufgurel.site</email>
+  </author>
+  
+    
+    <entry>
+      <title>It is Happening</title>
+      <link href="https://yusufgurel.site//posts/it-is-happening/"/>
+      <updated>2021-03-12T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/it-is-happening/</id>
+      <content type="html">
+        <![CDATA[
+      <p>In these times, I’m not thinking about AI‘s ethics or it can be apply the technological singularity, it is not the point. If singularity dominates on us, will Nature accept that? I discuss problems that arise in learning to learn.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>IBM &amp; Lenovo ThinkPad Machines</title>
+      <link href="https://yusufgurel.site//posts/ibm-and-lenovo-thinkpad-machines/"/>
+      <updated>2021-03-12T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/ibm-and-lenovo-thinkpad-machines/</id>
+      <content type="html">
+        <![CDATA[
+      <p>I’m gonna tell about reasons to buy ThinkPad. If you are working on bootloaders, BIOS as System Programmer probably you have one of these machines because of Libreboot, coreboot and totally GNU/Linux &amp; BSD support also you are working on basic programming, the best mobile machine to buy is a ThinkPad.</p>
+<p>Before starting, if you’re NOT interested in majors of Computer Science and you’re a compuer normie, ThinkPads will become DumbPad for you.</p>
+<h5>‏</h5>
+<p><img src="https://yusufgurel.site/images/dream_thinkpad.jpg" alt="thinkpad"></p>
+<h6>‏</h6>
+<h5>‏</h5>
+<h3>Why ThinkPad?</h3>
+<blockquote>
+<ul>
+<li>Used machines are plentiful and cheap (even for Turkey)</li>
+<li>Excellent keyboards – tactile feel and quiet</li>
+<li>Great durability: magnesium rollcage for structural integrity, high quality plastic body panels</li>
+<li>Utilitarian design: indicator LEDs, 7 row keyboard layout on older models</li>
+<li>Docking stations that easily turns your laptop into a desktop</li>
+<li>Easy to repair (most models), upgrade &amp; maintain thanks to readily available service manuals for every model, spare parts easy &amp; cheap to obtain</li>
+<li>The TrackPoint™, great for those who type a lot or hate people swiping their fingers all over a touchpad</li>
+<li>Excellent GNU/Linux &amp; BSD support</li>
+</ul>
+</blockquote>
+<h3>Helpful Links for ThinkPad Users</h3>
+<h6>‏</h6>
+<ul>
+<li><a href="https://dankpads.com/tpg/">Buyers Guide – Newly Updated</a></li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://github.com/Monkeyfume/thinkpad-tech-tree/blob/master/thinkpad-tech-tree.txt">ThinkPad Tech Tree – a Plaintext Map of ThinkPad History</a></li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://github.com/Monkeyfume/thinkpad-tech-tree/blob/master/thinkpad-tech-tree.txt">ThinkWiki – info on ThinkPads &amp; Running GNU/Linux on them</a></li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="http://biosimage.booru.org/">BIOS logo for ThinkPads</a></li>
+</ul>
+<hr>
+<pre><code>Additionally, If you don’t want to leave any track and you care about CPU brands’ backdoors; T60 (check lcd), X60(s/t); X200(s/t. -s requires soldering), T400(s)/500; W500 are Libreboot-compatible Models.
+</code></pre>
+<hr>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>YouTube Channels I like watching</title>
+      <link href="https://yusufgurel.site//posts/youtube-channels-i-like-watching/"/>
+      <updated>2021-03-13T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/youtube-channels-i-like-watching/</id>
+      <content type="html">
+        <![CDATA[
+      <h3>All these channels is about CS/IT. If you like to watch some beep-boop on terminals &amp; boards, you’ll like all of them. I’ll update it regularly.</h3>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCdGi-giXt1ceY7V2jkcqPZQ"><code>ITTFami</code></a> – Old electronics, low production value, occasional swearing, and a tad of madness, go ahead and watch his crap.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCZrrEuHiQjN2CUo84g5tk7w"><code>tripcode!Q/7</code></a> – If you scrolled on /g/ board, you’ve definitely seen a meme about him (Yeas, him) and his channel is generally about ThinkPad hardware and bootloaders/BIOS.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"><code>Luke Smith</code></a> – Well, He’s an edgelord for all those GNU stuff but he also makes videos about philosophy and the nonsense of modern life and digital globalism. This boomer gonna redpilled you.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCZrrEuHiQjN2CUo84g5tk7w"><code>WesleyAda</code></a> – A channel about introduction to GNU/Linux, you can take a look if you’re a Linux noob.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ"><code>sentdex</code></a> – I really like and envy his videos. He is making about ML, finance, data analysis, robotics, web development, game development.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UC-7I1gU1r6PxBSl87o-7YEQ"><code>Druaga1</code></a> – Do you wanne see extreme experiments on old techs? Watch this channel.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UC-7I1gU1r6PxBSl87o-7YEQ"><code>PhilsComputerLab</code></a> – Tests, benchmarks, comparisons on antique hardwares.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg"><code>Wolfgang’s Channel</code></a> – He has the best tutorials &amp; ASMRs about installations. I built Gentoo with him at first time.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA"><code>Mental Outlaw</code></a> – An another my favorite channel. He’s making videos about these sub-cultures and how-to videos for Gentoo and other distros.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg"><code>george hotz archive</code></a> – If you don’t know George Hotz, I suggest you research him. He’s like a villain against Apple. That channel includes his programming streams and other videos.</li>
+</ul>
+<h6>‏</h6>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCNwGa76xVVwdEVToRZBIUIg"><code>DenshiVideo</code></a> – He makes videos about software, operating systems, and pretty much anything else.</li>
+</ul>
+<h6>‏</h6>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>My General Desktop Layout &amp; Customizations for i3WM</title>
+      <link href="https://yusufgurel.site//posts/my-general-desktop-layout-and-customizations-for-i3wm/"/>
+      <updated>2021-03-17T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/my-general-desktop-layout-and-customizations-for-i3wm/</id>
+      <content type="html">
+        <![CDATA[
+      <blockquote>
+<p>I know y’all switched to BSPWM but I still use i3WM. I don’t really have time for ricing. Yes, BSPWM is less difficult to configure but I’m too lazy even for that. If you want to take a look and if you want to configure, I’m adding <a href="https://github.com/gurelyusuf/i3wm/"><code>GitHub link</code></a></p>
+</blockquote>
+<p><img src="https://raw.githubusercontent.com/gurelyusuf/i3wm/main/screenshots/screenshot1.png" alt="screenshot1"></p>
+<h6>‏</h6>
+<p><img src="https://raw.githubusercontent.com/gurelyusuf/i3wm/main/screenshots/screenshot2.png" alt="screenshot2"></p>
+<h6>‏</h6>
+<p><img src="https://raw.githubusercontent.com/gurelyusuf/i3wm/main/screenshots/screenshot4.png" alt="screenshot3"></p>
+<h6>‏</h6>
+<p><img src="https://raw.githubusercontent.com/gurelyusuf/i3wm/main/screenshots/screenshot5.png" alt="screenshot4"></p>
+<h6>‏</h6>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>My Must-have Open Source Programs</title>
+      <link href="https://yusufgurel.site//posts/my-must-have-open-source-programs/"/>
+      <updated>2021-03-18T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/my-must-have-open-source-programs/</id>
+      <content type="html">
+        <![CDATA[
+      <p>In these times, I’m not thinking about AI‘s ethics or it can be apply the technological singularity, it is not the point. If singularity dominates on us, will Nature accept that? I discuss problems that arise in learning to learn.</p>
+<table>
+<thead>
+<tr>
+<th>Program</th>
+<th>Terminal Based</th>
+<th>GUI Based</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Text Editor</td>
+<td>Vim</td>
+<td>Text Editor</td>
+</tr>
+<tr>
+<td>Media Player</td>
+<td>—</td>
+<td>VLC Player</td>
+</tr>
+<tr>
+<td>Music Player</td>
+<td>cmus</td>
+<td>Lollypop</td>
+</tr>
+<tr>
+<td>Audio Editor</td>
+<td>—</td>
+<td>Audacity</td>
+</tr>
+<tr>
+<td>Image Editor</td>
+<td>—</td>
+<td>GIMP</td>
+</tr>
+<tr>
+<td>Image Viewer</td>
+<td>—</td>
+<td>feh</td>
+</tr>
+<tr>
+<td>PDF Viewer</td>
+<td>—</td>
+<td>zathura</td>
+</tr>
+<tr>
+<td>E-Mail Client</td>
+<td>Neomutt</td>
+<td>Thunderbird</td>
+</tr>
+<tr>
+<td>E-book Reader</td>
+<td>Epy*</td>
+<td>Foliate</td>
+</tr>
+<tr>
+<td>Web Browser</td>
+<td>Lynx</td>
+<td>Chromium</td>
+</tr>
+<tr>
+<td>File Manager</td>
+<td>nnn &amp; Midnight Commander</td>
+<td>Thunar</td>
+</tr>
+<tr>
+<td>Torrent Client</td>
+<td>Transmission</td>
+<td>Qbittorrent</td>
+</tr>
+<tr>
+<td>Screen Recorder</td>
+<td>Byzanz-record</td>
+<td>OBS Studio</td>
+</tr>
+</tbody>
+</table>
+<h6>‏</h6>
+<p><code>*I don’t recommend reading on terminal for your eyes.</code></p>
+<h6>‏</h6>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Is Digital Decentralization a spook of Globalism?</title>
+      <link href="https://yusufgurel.site//posts/is-digital-decentralization-a-spook-of-globalism/"/>
+      <updated>2021-03-19T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/is-digital-decentralization-a-spook-of-globalism/</id>
+      <content type="html">
+        <![CDATA[
+      <p>Well, shortly I am not sure about that “life-like” decentralization is a spook. It could be a spreading idea on internet boards and totally harmless for society, I’m talking about digital-decentralization, it is connected to main decentralization idea but I’m not an expert of other branches like statistics and sociology stuff so I’m only talking about digital results of decentralization. Other side of the coin I’m absolutely a decentralization supporter. In my opinion, localizm is for our favour.</p>
+<p>Relationship of a benefit keeps people together. This benefit measured with a common system and we call it money. Money prints in mints and release by the governments and they all connected to FED. This thing that all people use is arranges, rules and manages by a group of people, isn’t this wrong? As for me, this is a huge issue. There were other people who thought like me and they invented blockchain. (or I/we realized this problem after the invention of blockchain.)</p>
+<p>Anyway, let’s get to the point. Globalism rules this era and they have all power like media, techs, manpower and they have the main power, internet. They’re trying to spy and log us by using NSA. (even as I write this) but if there is no money, they can’t rule and blockchain is taking this power from their hands. Frankly, I have doubts that the blockchain is not decentralized because they are not reacting well against it.</p>
+<p>I think reserves of all cryptocurrencies are manage like the FED’s. Cryptologists and mathematicians may disagree with what I say, these are just my own observations.</p>
+<h6>‏</h6>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Finally I got a new Japanese Mechanical Keyboard</title>
+      <link href="https://yusufgurel.site//posts/finally-i-got-a-new-japanese-mechanical-keyboard/"/>
+      <updated>2021-05-16T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/finally-i-got-a-new-japanese-mechanical-keyboard/</id>
+      <content type="html">
+        <![CDATA[
+      <p>I’m really tired of the freak gaming hardwares and I bought an <em>Epson Q203A</em>. She has <em>Fujitsu Peerless</em> switches and this is a bit diffrent from modern switches. Actuation force is really more than MX or other Chinese switches but it is a characteristic point for her. Main frame and keycaps look so clean as you can see and does not have yellowish stains. Let’s get to the main issue, she has <a href="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cherry-Schneider-MF2-5-Pin-DIN-Connector.jpg">five-pin male 180° DIN connector</a> (yes she has a male plug pls respect her :D) and it isn’t compatible to modern systems. I’ve seen several DIN to USB marker project on marker markets and other geek stores but I still live in Turkey and have some financial problems against USD :’) If I’ve bought a connector from these markets, I’d have paid about 30-45 dollar(included shipping). It is really substantial amount of money. So I’ve ordered a <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8qHrHhwEfRexWdNFswpjQSuV2HyRotb44A&amp;usqp=CAU">five-pin female DIN to PS/2 converter</a> on <em>Aliexpress</em> and I’ll buy a PS/2 to USB converter from a local tech store. Actually, I can convert it by soldering but I want to keep its originality. When they arrived, I’ll post an update for converting stuff. Peace out.</p>
+<h6>‏</h6>
+<blockquote>
+<h3>03.06.2021</h3>
+</blockquote>
+<p>I’ve got five-pin female 180° DIN to six-pin male PS/2 converter and female PS/2 to USB converter but I couldn’t get it run. When I’ve plugged all cables and connectors, USB connector warmed up extremly. I have tried on my desktop, laptop and brother’s laptop but keyboard hasn’t responded at all. I guess first connector is broken. I’ll try another DIN5 connector and if that doesn’t work either, going to buy a RasPi Zero and solder my AT/T socket to its GPIO Header but I don’t know how I’ll do, do not even know mikroC.</p>
+<blockquote>
+<h3>06.06.2021</h3>
+</blockquote>
+<p>I’ve ripped off the keyboard and seen there are a membran circuit and old-fashioned PCB. Actually I want to replace the whole PCB but I have no general circuit &amp; keyboard matrices knowledges for that. I don’t even know which part of daughter board will be soldered to Arduino or whatever. Some people had recommend mapping the matrix on the current PCB and wire that to a Teensy / Arduino. And completed some researches. I’ve asked how to do on Redd*t and they said that’s an XT keyboard and got suggestion about DIY converter with a Teesy board but those boards ridiculously overpriced in Turkey so I bought a new adapter from locals. If it doesn’t work, I’m gonna try the DIY one and if none of them work, I’ll map the matrix and wire to Arduino.</p>
+<p><img src="https://yusufgurel.site/images/keyboard1.jpg" alt="keyboard1"></p>
+<h6>‏</h6>
+<p><img src="https://yusufgurel.site/images/keyboard1.jpg" alt="keyboard2"></p>
+<h6>‏</h6>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Hello after a long time!</title>
+      <link href="https://yusufgurel.site//posts/hello-after-a-long-time!/"/>
+      <updated>2022-02-07T21:00:00+03:00</updated>
+      <id>https://yusufgurel.site//posts/hello-after-a-long-time!/</id>
+      <content type="html">
+        <![CDATA[
+      <p>I'm currently planning to move all my posts to here.  I've recovered from the backup of my old Wordpress stuff. I've added my old posts here. Additionally I've took some notes about the topics I will enter here and I'm gonna start with doing something <em>cliché</em>  :)</p>
+<hr>
+<pre class="language-dart"><code class="language-dart"><span class="token comment">// Hi everyone!</span><br><span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">'Hello again.'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
+<h3><em>Plans and more plans</em></h3>
+<p>Blogging about the topics you study helps you remember the topic. Especially if you have trouble remembering something like me.</p>
+<h6>‏</h6>
+<h6>‏</h6>
+<ul>
+<li>I'm currently working on <strong>Java</strong> and <strong>Kotlin</strong> on <em><strong>Android Studio</strong></em>. In addition to that, I'm interested in <em>UI development</em> for now, so I'm learning <strong>Flutter</strong> &amp; <strong>Dart</strong>.</li>
+</ul>
+<h6>‏</h6>
+<h6>‏</h6>
+<ul>
+<li>In the last two or three days, I've a quick introduction to <em>front-end web development</em>. I learned to use <a href="https://www.11ty.dev/">Eleventy</a> (generates static sites using <strong>Node.js</strong> and modules), but that was not enough for the website I imagined. So I deployed the
+source files to my <strong>GitHub</strong> repository to revive. I've integrated it with an entry-level <em>headless CMS</em> called <a href="https://forestry.io/">Forestry</a> and I just handled the backend part, but <strong>Forestry</strong> can only be integrated with the my own <strong>GitHub</strong> repository, so I couldn't use it with my own hosting. I need to code my own <em>Content Management System (CMS)</em>, I'll do that when I have time.</li>
+</ul>
+<h6>‏</h6>
+<p>And finally, I would like to talk about my general goals for the <em>spring semester</em>:</p>
+<h6>‏</h6>
+<blockquote>
+<ul>
+<li>Fully grasp the concept of OOP and apply it in Android projects.</li>
+<li>Contiune with Kotlin after learning Java.</li>
+<li>Master on Flutter framework and learn to code in Dart programming language well.</li>
+<li>Gain Knowledge about UI and UX design.</li>
+<li>Code a CMS for back-end of this website and make sure it works correctly.</li>
+<li>Learn the working principles and theory of Quantum Computers &amp; quantum programming w/ Qiskit.</li>
+<li>Learn and memorize 20-30 words in English per day at 4-5 months.</li>
+<li>Keep the GPA score above 3/4 :D</li>
+<li>Blog regularly.</li>
+</ul>
+</blockquote>
+<p>Let me share the titles that I will enter here in the future:</p>
+<blockquote>
+<ul>
+<li>About Studying on Computer Science and Engineering</li>
+<li>About My Future Major in Computer Science</li>
+<li>Will Machine Learning be an Answer to Our Existence?</li>
+<li>About Stafford Beer and his Cybernetics</li>
+<li>Biomachines and Biological Algorithms</li>
+<li>What if transistors were invented earlier?</li>
+</ul>
+</blockquote>
+
+    ]]>
+      </content>
+    </entry>
+  
+</feed>
